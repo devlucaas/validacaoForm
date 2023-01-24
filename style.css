@@ -34,6 +34,8 @@ form{
 
     margin: 32px auto;
     padding: 32px 64px;
+
+    border-radius: 10px;
 }
 
 form h2{
@@ -67,6 +69,7 @@ input, button{
 
 button{
     margin-top: 16px;
+    border-radius: 10px;
     background-color: var(--primary-color);
 }
 
